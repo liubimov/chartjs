@@ -23,7 +23,7 @@ const { API_URL: apiUrl } = process.env;
     )
   ];
   const obj = {
-    teamLabel: "Team Jedi",
+    teamLabel: "TeamXOR",
     isFullscreen: false,
     isFetching: false
   };
